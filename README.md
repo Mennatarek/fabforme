@@ -1,2 +1,2 @@
 # fabforme
-ZoneEcommrce
+ZoneEcommerce
